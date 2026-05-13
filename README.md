@@ -3,8 +3,7 @@
 A professional, fully responsive gym website with a **black & yellow neon futuristic design**.  
 It showcases a complete **Monday to Saturday workout schedule** with exercises, sets, reps, and dynamic cards. Built with HTML, CSS, and JavaScript.
 
-🔗 **Live Demo:** [https://your-username.github.io/gym-workout-plan](https://your-username.github.io/gym-workout-plan)  
-*(Replace `aman221294` with your actual GitHub username)*
+🔗 **Live Demo:** [https://aman221294.github.io/gym-workout-plan](https://your-username.github.io/gym-workout-plan)  
 
 ---
 
